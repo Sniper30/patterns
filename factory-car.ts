@@ -11,13 +11,13 @@ interface Engine {
 
 class ElectricCar implements Vehicle {
     assembly(): void {
-        console.log("assembly an electric car");
+        console.log("Assembling an electric car");
     }
 }
 
 class GasCar implements Vehicle {
     assembly(): void {
-        console.log("assembling a gas car");
+        console.log("Assembling a gas car");
     }
 }
 
