@@ -1,2 +1,2 @@
-# patterns
-a little bit of " common solutions to common problems "
+# Patterns
+A little bit of " common solutions to common problems "
